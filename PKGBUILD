@@ -10,7 +10,7 @@ url="https://github.com/AntoineGagne/font-awesome"
 arch=(any)
 license=(custom)
 _tarname=font-awesome-${_relver#?}
-md5sums=('7f23c4467f7f335b33079bc6e5f89868')
+md5sums=('7a7bf54a401def4dba82aa60b3c9275b')
 source=("$_tarname.tar.gz::https://github.com/AntoineGagne/font-awesome/archive/$_relver.tar.gz")
 
 package() {
