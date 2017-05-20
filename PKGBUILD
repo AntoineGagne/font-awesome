@@ -3,13 +3,14 @@
 
 pkgname=font-awesome
 pkgver=1.0.0
-_relver=1.0.0
+_relver=v1.0.0
 pkgrel=3
 pkgdesc="Font Awesome taken from the popular web fonts at: http://fontawesome.io/."
 url="https://github.com/AntoineGagne/font-awesome"
 arch=(any)
 license=(custom)
 _tarname=font-awesome-${_relver//\//-}
+md5sums=('7f23c4467f7f335b33079bc6e5f89868')
 source=("$_tarname.tar.gz::https://github.com/AntoineGagne/font-awesome/archive/$_relver.tar.gz")
 
 package() {
