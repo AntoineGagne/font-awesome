@@ -1,5 +1,5 @@
 # $Id$
-# Maintainer: Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>
+# Maintainer: Antoine Gagné <antoine.gagne.2@ulaval.ca>
 
 pkgname=font-awesome
 pkgver=1.0
