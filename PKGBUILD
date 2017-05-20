@@ -2,8 +2,8 @@
 # Maintainer: Antoine Gagné <antoine.gagne.2@ulaval.ca>
 
 pkgname=font-awesome
-pkgver=1.0
-_relver=1.0
+pkgver=1.0.0
+_relver=1.0.0
 pkgrel=3
 pkgdesc="Font Awesome taken from the popular web fonts at: http://fontawesome.io/."
 url="https://github.com/AntoineGagne/font-awesome"
